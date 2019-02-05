@@ -1,7 +1,7 @@
 # Variational Image Captioning Using Deterministic Attention Implementation.
 
 This is the implementation code for the **Variational Image Captioning Using Deterministic Attention** project. The attempt was to generate diverse image descriptions for each input image using a Conditional Variational Autoencoder (CVAE) and deterministic attention. 
-We used beam search for caption generation. Given the same image input and the same beam size input, the model is able to generate different image descriptions.
+Our team used beam search for caption generation. Given the same image input and the same beam size input, the model is able to generate different image descriptions.
 
 Some examples:
 ![](https://github.com/pcascanteb/VAE-ImgCaptioning/blob/master/Imgs/Samples.JPG?raw=true "Title")
